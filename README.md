@@ -20,7 +20,7 @@ This Power BI Sales Dashboard provides an interactive analysis of sales performa
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](SDB-Screenshot 2026-07-28 004619.png)
+SDB-Screenshot 2026-07-28 004619.png
 
 ## 📂 Files Included
 - Sales-Dashboard- power bi.pbix
